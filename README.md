@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
 ---
 
 ## Screenshot
-![Schuh Filtering Screenshot](screenshot.png)
+<img width="1249" alt="Screenshot 2024-12-17 at 2 19 34 PM" src="https://github.com/user-attachments/assets/9a631c49-d7dc-4e6e-99ba-e2309e42d6e4" />
 
 ---
 
@@ -70,14 +70,9 @@ Contributions are welcome! If you'd like to contribute:
 
 ---
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact
 - **GitHub**: [Aakash-shrestha](https://github.com/Aakash-shrestha)
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Email**: [akash.stha444@gmail.com](mailto:akash.stha444@gmail.com)
 
 ---
 
