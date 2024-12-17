@@ -47,7 +47,7 @@ To run the project locally, follow these steps:
 ---
 
 ## Screenshot
-<img width="1249" alt="Screenshot 2024-12-17 at 2 19 34 PM" src="https://github.com/user-attachments/assets/9a631c49-d7dc-4e6e-99ba-e2309e42d6e4" />
+<img width="512" alt="Screenshot 2024-12-17 at 2 19 34 PM" src="https://github.com/user-attachments/assets/9a631c49-d7dc-4e6e-99ba-e2309e42d6e4" />
 
 ---
 
